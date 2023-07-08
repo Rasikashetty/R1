@@ -1,2 +1,7 @@
 how are you
 i am finr
+line 1 aded
+line 2 added
+line 3 added
+
+
